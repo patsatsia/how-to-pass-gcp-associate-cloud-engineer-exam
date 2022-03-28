@@ -33,3 +33,6 @@ created by
 [in28Minutes Official](https://www.udemy.com/user/in28minutes/)
 and [Ranga Karanam | GCP Certification - Google Cloud Engineer & Architect](https://www.udemy.com/user/cloud-and-full-stack-in28minutes-spring/)
 
+Another beginner-friendly course which covers all the GCP resources necessary for the GCP Associate Cloud Engineer.
+Teacher explains everything in a
+
