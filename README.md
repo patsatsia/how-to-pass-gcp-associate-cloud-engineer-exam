@@ -26,4 +26,4 @@ All the courses incorporates hands-on labs using Qwiklabs platform There are two
 2. Or you can audit the course which gives you the possibility to access all the videos, but assessments and Qwiklabs labs
    are not included.
 
-You can view the specialization [here](https://www.https://www.coursera.org/professional-certificates/cloud-engineering-gcp/)
+You can view the specialization [here](https://www.coursera.org/professional-certificates/cloud-engineering-gcp/)
