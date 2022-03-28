@@ -28,11 +28,7 @@ All the courses incorporates hands-on labs using Qwiklabs platform There are two
 
 You can view the specialization [here](https://www.coursera.org/professional-certificates/cloud-engineering-gcp/)
 
-### 2. [Udemy](https://www.udemy.com//) course GCP Associate Cloud Engineer - Google Cloud Certification
-
-created by
-[in28Minutes Official](https://www.udemy.com/user/in28minutes/)
-and [Ranga Karanam | GCP Certification - Google Cloud Engineer & Architect](https://www.udemy.com/user/cloud-and-full-stack-in28minutes-spring/)
+### 2. [Udemy](https://www.udemy.com//) course GCP Associate Cloud Engineer - Google Cloud Certification created by [in28Minutes Official](https://www.udemy.com/user/in28minutes/) and [Ranga Karanam | GCP Certification - Google Cloud Engineer & Architect](https://www.udemy.com/user/cloud-and-full-stack-in28minutes-spring/)
 
 Another beginner-friendly course which covers all the GCP resources necessary for the GCP Associate Cloud Engineer (and
 I don't only mean clearing the exam). Teacher explains everything in a concise manner. There are a lof of quizzes
@@ -40,5 +36,16 @@ included, alongside with very useful resources.
 
 Also, each section of the course includes demos from the instructor on how things should be configured on the GCP
 platform. Demos include setting up (creating, updating, managing, deleting) resources using both console and a Google
-Cloud SDK (Command-Line Interface For Google Cloud Platform Products & Services) 
+Cloud SDK (Command-Line Interface For Google Cloud Platform Products & Services)
+
+### 3. [Udemy](https://www.udemy.com//) course Docker & Kubernetes: The Practical Guide created by [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)
+
+Containerization is one of the most important topics in cloud computing and in programming. Solid understanding of how
+docker and kubernetes work is crucial, and I believe, it's mandatory also.
+
+Maximilian is one of the best teachers online, he always explains everything in detail. At the end of the day there are
+virtually no questions as he showcases all the possible scenarios and the ways how to handle each of them.
+
+The course is absolutely beginner-friendly. You don't need to know anything regarding docker or kubernetes as every
+little detail is covered from scratch.
 
