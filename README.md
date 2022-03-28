@@ -28,11 +28,13 @@ All the courses incorporates hands-on labs using Qwiklabs platform There are two
 
 You can view the specialization [here](https://www.coursera.org/professional-certificates/cloud-engineering-gcp/)
 
-### 2. [Udemy](https://www.udemy.com//) course GCP Associate Cloud Engineer - Google Cloud Certification 
+### 2. [Udemy](https://www.udemy.com//) course GCP Associate Cloud Engineer - Google Cloud Certification
+
 created by
 [in28Minutes Official](https://www.udemy.com/user/in28minutes/)
 and [Ranga Karanam | GCP Certification - Google Cloud Engineer & Architect](https://www.udemy.com/user/cloud-and-full-stack-in28minutes-spring/)
 
-Another beginner-friendly course which covers all the GCP resources necessary for the GCP Associate Cloud Engineer.
-Teacher explains everything in a
+Another beginner-friendly course which covers all the GCP resources necessary for the GCP Associate Cloud Engineer (and
+I don't only mean clearing the exam). Teacher explains everything in a concise manner. There are a lof of quizzes
+included, alongside with very useful resources. 
 
