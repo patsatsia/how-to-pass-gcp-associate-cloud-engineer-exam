@@ -1,4 +1,4 @@
-## How To Pass GCP Associate Cloud Engineer Exam
+## How To Pass GCP Associate Cloud Engineer Exam (how I did it)
 
 ***
 
