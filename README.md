@@ -21,9 +21,15 @@ contains all the necessary details not only to pass the exam, but to get a solid
 
 All the courses incorporates hands-on labs using Qwiklabs platform There are two enrollment options:
 
-1. Monthly Subscription for $49 USD per month (as of March 2022). You get full access to the course materials,
-   including Qwiklabs labs and all the assessments.
-2. Or you can audit the course which gives you the possibility to access all the videos, but assessments and Qwiklabs labs
-   are not included.
+1. Monthly Subscription for $49 USD per month (as of March 2022). You get full access to the course materials, including
+   Qwiklabs labs and all the assessments.
+2. Or you can audit the course which gives you the possibility to access all the videos, but assessments and Qwiklabs
+   labs are not included.
 
 You can view the specialization [here](https://www.coursera.org/professional-certificates/cloud-engineering-gcp/)
+
+### 2. [Udemy](https://www.udemy.com//) course GCP Associate Cloud Engineer - Google Cloud Certification 
+created by
+[in28Minutes Official](https://www.udemy.com/user/in28minutes/)
+and [Ranga Karanam | GCP Certification - Google Cloud Engineer & Architect](https://www.udemy.com/user/cloud-and-full-stack-in28minutes-spring/)
+
