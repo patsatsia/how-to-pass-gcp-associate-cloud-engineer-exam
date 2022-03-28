@@ -36,5 +36,9 @@ and [Ranga Karanam | GCP Certification - Google Cloud Engineer & Architect](http
 
 Another beginner-friendly course which covers all the GCP resources necessary for the GCP Associate Cloud Engineer (and
 I don't only mean clearing the exam). Teacher explains everything in a concise manner. There are a lof of quizzes
-included, alongside with very useful resources. 
+included, alongside with very useful resources.
+
+Also, each section of the course includes demos from the instructor on how things should be configured on the GCP
+platform. Demos include setting up (creating, updating, managing, deleting) resources using both console and a Google
+Cloud SDK (Command-Line Interface For Google Cloud Platform Products & Services) 
 
