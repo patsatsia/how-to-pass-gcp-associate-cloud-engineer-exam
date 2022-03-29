@@ -38,6 +38,8 @@ Also, each section of the course includes demos from the instructor on how thing
 platform. Demos include setting up (creating, updating, managing, deleting) resources using both console and a Google
 Cloud SDK (Command-Line Interface For Google Cloud Platform Products & Services)
 
+You can view the course [here](https://www.udemy.com/course/google-cloud-certification-associate-cloud-engineer/)
+
 ### 3. [Udemy](https://www.udemy.com//) course Docker & Kubernetes: The Practical Guide created by [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/)
 
 Containerization is one of the most important topics in cloud computing and in programming. Solid understanding of how
@@ -48,6 +50,8 @@ virtually no questions as he showcases all the possible scenarios and the ways h
 
 The course is absolutely beginner-friendly. You don't need to know anything regarding docker or kubernetes as every
 little detail is covered from scratch.
+
+You can view the course [here](https://www.udemy.com/course/docker-kubernetes-the-practical-guide/)
 
 ### 4. Official Google Cloud Certified Associate Cloud Engineer Study Guide by Dan Sullivan (book)
 
