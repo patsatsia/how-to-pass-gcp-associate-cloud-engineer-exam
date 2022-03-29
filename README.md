@@ -80,5 +80,7 @@ difference. Test contains question about all the services taught in the courses 
 questions about GKE (Google Kubernetes Engine), also, a few questions about IAM (Identity and Access Management), there
 were questions related to Cloud Run, Cloud Storages, BigQuery, BigTable, firewall rules, storage classes, deployment
 management, compute engine, VPC (Virtual Private Cloud, this one is also important, got more than one question regarding
-this topic), cloud functions and etc. This is just a short list. As I mentioned above, there will be at least one
-question for most services.
+this topic), cloud functions etc. This is just a short list. As I mentioned above, there will be at least one question
+for most services. Also, it is important to work with GCP services using command line interface (CLI). You can expect a
+few question about how resources are managed using CLI (creating buckets, setting global configurations, manipulating
+Google Compute Engine or Google Kubernetes Engine resources etc.)  
