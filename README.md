@@ -70,4 +70,15 @@ services in a great detail, so often going through all the documentation might b
 ### 5. Google Cloud GCP Google Cloud Platform Associate Cloud Engineer Practice Test 2021 by Anthony Stewart (book)
 
 Book contains 359 questions which give you a grasp of what to expect on the exam. You can use the resource to identify
-you weak spots and work on them thereafter. 
+you weak spots and work on them thereafter.
+
+### NOTE
+
+Exam contains 50 questions, and you have 2 hours to clear the test. I think it's very important to read the question
+carefully and reread it a few times if something is not completely clear. Even one misunderstood word can make a
+difference. Test contains question about all the services taught in the courses and books mentioned above. I got 5-6
+questions about GKE (Google Kubernetes Engine), also, a few questions about IAM (Identity and Access Management), there
+were questions related to Cloud Run, Cloud Storages, BigQuery, BigTable, firewall rules, storage classes, deployment
+management, compute engine, VPC (Virtual Private Cloud, this one is also important, got more than one question regarding
+this topic), cloud functions and etc. This is just a short list. As I mentioned above, there will be at least one
+question for each service
