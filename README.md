@@ -67,3 +67,7 @@ Cloud Platform alongside with this book, it will guarantee that you are up-to-da
 is no need for this book if you still read documentations. But, the thing is, documentations cover resources and
 services in a great detail, so often going through all the documentation might be overwhelming and unnecessary.
 
+### 5. Google Cloud GCP Google Cloud Platform Associate Cloud Engineer Practice Test 2021 by Anthony Stewart (book)
+
+Book contains 359 questions which give you a grasp of what to expect on the exam. You can use the resource to identify
+you weak spots and work on them thereafter. 
