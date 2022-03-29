@@ -81,4 +81,4 @@ questions about GKE (Google Kubernetes Engine), also, a few questions about IAM 
 were questions related to Cloud Run, Cloud Storages, BigQuery, BigTable, firewall rules, storage classes, deployment
 management, compute engine, VPC (Virtual Private Cloud, this one is also important, got more than one question regarding
 this topic), cloud functions and etc. This is just a short list. As I mentioned above, there will be at least one
-question for each service
+question for most services.
