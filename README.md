@@ -49,3 +49,21 @@ virtually no questions as he showcases all the possible scenarios and the ways h
 The course is absolutely beginner-friendly. You don't need to know anything regarding docker or kubernetes as every
 little detail is covered from scratch.
 
+### 4. Official Google Cloud Certified Associate Cloud Engineer Study Guide by Dan Sullivan (book)
+
+Courses mentioned above are great for practicing technologies, but there is a lot of theory behind the scenes when it
+comes to Google Cloud Platform. At least, I believe so. For me, it's hard to catch up with all the theory by just
+watching videos. And I found this book very fascinating, probably, the most valuable resource while preparing for the
+exam.
+
+Book contains 18 chapters and covers all the necessary services for the exam, including theory, CLI commands and console
+breakdown. Each chapter has its own summary and 'exam essentials' section. Also, there are mock tests with 20 questions
+at the end of each section. You can find detailed explanations for the questions in the appendix of the book. Author
+does a great job explaining why given answer is correct and also explanations about why other answers are falsy.
+
+I would recommend this book for everyone. But, there is one downside. At the given moment, the latest edition of the
+book dates back to 2019, so, there are some topics which are outdated. You can read official documentation of the Google
+Cloud Platform alongside with this book, it will guarantee that you are up-to-date. Therefore, you can argue, that there
+is no need for this book if you still read documentations. But, the thing is, documentations cover resources and
+services in a great detail, so often going through all the documentation might be overwhelming and unnecessary.
+
